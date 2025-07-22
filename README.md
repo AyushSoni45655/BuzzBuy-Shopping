@@ -7,7 +7,7 @@ a shopping cart, and category filtering. This project is ideal for frontend prac
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live site](https://your-live-link.com)  
+🔗 [Click here to view the live site](https://ayushsoni45655.github.io/BuzzBuy-Shopping/)  
 _(Replace this link with your deployed GitHub Pages / Netlify / Vercel link)_
 
 ---
