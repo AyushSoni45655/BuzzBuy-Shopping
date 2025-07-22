@@ -20,17 +20,14 @@ _(Replace this link with your deployed GitHub Pages / Netlify / Vercel link)_
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ILpydzT3yDuHhIy8IVYBipObWbbyMdATJEvEwAERmVobTQ-ddxYkInr4lj9CgPgkeRIc9WYlEdWI5G2Ja_v76NzYUoEKjlIdwmAd_np8rkl2GRbu54HJIYQavqrembS11QXIrECCSEfZmi70UDuClWLlYAdpXaKNHjQNORchV0KlT-FamS4gGmtW8vJ4/s1871/Screenshot%202025-07-22%20160256.png" alt="Home Page" width="600" /><br><br>
 
 
-
-![Products](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHbop260uJcLhIZLAVekp_SZ2f5bds5gYPQey9ukqERXy_O9pSlEA-gpbYur7dxFgnfQ3a
-_pb42I1f3FnnJnsfJVoa7J7Ud6bH_yLWlwvTmWC-q3DQMNlhutIu7f3N_3ssg9-cEcMlIgnmYM9OHIeESsT0NBEXgZX31Qy-UarO9PFI_DWu91QziOcOoAPq/s1859/Screenshot%202025-07-22%20160316.png) |
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHbop260uJcLhIZLAVekp_SZ2f5bds5gYPQey9ukqERXy_O9pSlEA-gpbYur7dxFgnfQ3a_pb42I1f3FnnJnsfJVoa7J7Ud6bH_yLWlwvTmWC-q3DQMNlhutIu7f3N_3ssg9-cEcMlIgnmYM9OHIeESsT0NBEXgZX31Qy-UarO9PFI_DWu91QziOcOoAPq/s1859/Screenshot%202025-07-22%20160316.png" alt="Product Page" width="600" /><br><br>
 
 
-![Cart](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRkuVbFtG60DbkA6slwb5JZx70UDmaq6cOHQa3oQVAPxxyxsq2BJjO77tCay7iLJ2wQqaUvlR-Ium
--US2q73isdT4fIp-_f1ZN_6YRBJntVSzSMun8gcjLdcreJYsU1QC6VHmFa_y3wBTDO6JltPYXhyhbLXY0K4l1X4Gg2e78XKdNK6vivvc-5fgE3x7/s1856/Screenshot%202025-07-22%20160336.png) |
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixtFd7beJixsRcsXgSwZLwyd6Td1Fi7t2qXWRhgVGnA9Mlm6xyBsvD2dXWhw943UtzPHUTWR3P6yfGnnRTZpmTDrjrWvzCwOLFIqc_pb-dIPSdvUqlpFOJKoKzgnP_rt3-m07yUxDDqoLFvst7iQgIcqQMEF4p69wdbWInZjN-PGlmRiKAcOXBPDL72YQX/s1863/Screenshot%202025-07-22%20160350.png" alt="Products Item Page" width="600" /><br><br>
 
 
-![Baanner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixtFd7beJixsRcsXgSwZLwyd6Td1Fi7t2qXWRhgVGnA9Mlm6xyBsvD2dXWhw943UtzPHUTWR3P6yfGnnRTZpmTDrjrWvzC
-wOLFIqc_pb-dIPSdvUqlpFOJKoKzgnP_rt3-m07yUxDDqoLFvst7iQgIcqQMEF4p69wdbWInZjN-PGlmRiKAcOXBPDL72YQX/s1863/Screenshot%202025-07-22%20160350.png) |
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpPlHU9JivTUM4QyLbsZE8JQmqShcF9PPdVCci0Ru4fRHetbZMhRr0cELmx7J_RbC2fKInpWJRHV3e-Oo7URcWyxNeuVsESFFy1iYZQnuUEcAgE6rzbR-q9v5CEP-RI8dZXg7ZvrGnFLhAQy70sylQC82mqJJ7w09_jUyKtIImGo9EqfOiC0p9uBeKmXHP/s1869/Screenshot%202025-07-22%20160417.png" alt="Products Item Page" width="600" /><br><br>
+
 
 _(Add actual screenshots in a `screenshots/` folder and update the paths above.)_
 
