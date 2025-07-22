@@ -17,10 +17,7 @@ _(Replace this link with your deployed GitHub Pages / Netlify / Vercel link)_
 | Home Page | Products Page | Cart Page |
 |-----------|---------------|-----------|
                || Home PAGE ||
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ILpydzT3yDuHhIy8IV
-YBipObWbbyMdATJEvEwAERmVobTQ-ddxYkInr4lj9CgPgkeRIc9WYlEdWI5G2Ja_v76NzYUoEKjlIdwmAd_np8rkl
-2GRbu54HJIYQavqrembS11QXIrECCSEfZmi70UDuClWLlYAdpXaKNHjQNORchV0KlT-FamS4gGmtW8vJ4/s1871/
-Screenshot%202025-07-22%20160256.png" alt="Login Page" width="600" /><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ILpydzT3yDuHhIy8IVYBipObWbbyMdATJEvEwAERmVobTQ-ddxYkInr4lj9CgPgkeRIc9WYlEdWI5G2Ja_v76NzYUoEKjlIdwmAd_np8rkl2GRbu54HJIYQavqrembS11QXIrECCSEfZmi70UDuClWLlYAdpXaKNHjQNORchV0KlT-FamS4gGmtW8vJ4/s1871/Screenshot%202025-07-22%20160256.png" alt="Home Page" width="600" /><br><br>
 
 
 
