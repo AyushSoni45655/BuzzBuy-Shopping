@@ -16,13 +16,12 @@ _(Replace this link with your deployed GitHub Pages / Netlify / Vercel link)_
 
 | Home Page | Products Page | Cart Page |
 |-----------|---------------|-----------|
-
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ILpydzT3yDuHhIy8IV
+               || Home PAGE ||
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ILpydzT3yDuHhIy8IV
 YBipObWbbyMdATJEvEwAERmVobTQ-ddxYkInr4lj9CgPgkeRIc9WYlEdWI5G2Ja_v76NzYUoEKjlIdwmAd_np8rkl
 2GRbu54HJIYQavqrembS11QXIrECCSEfZmi70UDuClWLlYAdpXaKNHjQNORchV0KlT-FamS4gGmtW8vJ4/s1871/
-Screenshot%202025-07-22%20160256.png" target="_blank">
-  <img src="screenshots/home.png" alt="Homepage Screenshot" width="600"/>
-</a>
+Screenshot%202025-07-22%20160256.png" alt="Login Page" width="600" /><br>
+
 
 
 ![Products](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHbop260uJcLhIZLAVekp_SZ2f5bds5gYPQey9ukqERXy_O9pSlEA-gpbYur7dxFgnfQ3a
